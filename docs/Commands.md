@@ -17,7 +17,7 @@ title: Commands
 - **`!join`** - Summons the bot to the voice channel you are in.
     - **Aliases:** `summon`, `fuckon`
 ---
-- **`!play`** - Plays a song with the given name or url. [More Info](/play_song)
+- **`!p`** - Plays a song with the given name or url. [More Info](/play_song)
     - **Usage:** `!play <link/query>`
     - **Alias:** `p`
 ---
@@ -25,7 +25,7 @@ title: Commands
     - **Usage:** `!playtop <link/query>`
     - **Aliases:** `pt`, `ptop`
 ---
-- **`!playskip`** - Skips the current song and plays the song you requested.
+- **`!skip`** - Skips the current song and plays the song you requested.
     - **Usage:** `!playskip <link/query>`
     - **Aliases:** `ps`, `pskip`, `playnow`, `pn`
 ---
@@ -63,7 +63,7 @@ title: Commands
     - **Other Usage:** `!skip <number>` - Skip a certain amount of songs.
     - **Alias:** `voteskip`, `next`, `s`
 ---
-- **`!forceskip`** - Skips the current playing song immediately.
+- **`!fs`** - Skips the current playing song immediately.
     - **Other Usage:** `!forceskip <number>` - Skip a certain amount of songs.
     - **Aliases:** `fs`, `fskip`
     - **Note:** `DJ` role/`Manage Channels` permission required.
@@ -71,14 +71,14 @@ title: Commands
 - **`!pause`** - Pauses the current playing track.
     - **Alias:** `stop`
 ---
-- **`!resume`** - Resumes paused music.
+- **`!upause`** - Resumes paused music.
     - **Aliases:** `re`, `res`, `continue`
 ---
 - **`!lyrics`** - Gets the lyrics of the current playing song.
     - **Other Usage:** `!lyrics <song name>` - Gets the lyrics of the mentioned song.
     - **Aliases:** `l`, `ly`
 ---
-- **`!disconnect`** - Disconnects the bot from the voice channel it is in.
+- **`!d`** - Disconnects the bot from the voice channel it is in.
     - **Aliases:** `dc`, `leave`, `dis`, `fuckoff`
 ---
 
